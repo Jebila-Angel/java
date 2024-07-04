@@ -27,7 +27,7 @@ Output Format
 Print Weird if the number is weird; otherwise, print Not Weird.
 */
 
-public class HRPIfElse {
+public class HRP2_IfElse {
 
 
 
